@@ -1,4 +1,4 @@
-# 👋 Hi there, welcome to my page. I’m ID
+# 👋 Hi there, welcome to my page. I’m Idowu
 - 👀 Here, you'll find my romance with Python and some stories I'm trying to tell with data. 
 
 - 🌱 I’m currently learning how to build reproducible Machine Learning Pipelines. But there's so much more you'll find on this page in the coming months.
