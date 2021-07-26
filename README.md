@@ -32,17 +32,9 @@
 # [Movie Recommender system](https://github.com/joshasgard/Movie_Recommender_system.git)
 ![jeremy-yap-J39X2xX_8CQ-unsplash](https://user-images.githubusercontent.com/67300602/126975823-7ccd4bd9-9b24-411a-bd7d-4c527c0e1871.jpg)
 
-### Table of Contents
 
-1. [Introduction](#Introduction)
-2. [Installation](#Installation)
-3. [File Descriptions](#files)
-4. [How-to-](#how)
-5. [Authors, and Acknowledgements](#authors)
-
-
-## Introduction <a href = Introduction></a>
-- This is my trial at a project exercise during a <a href = https://github.com/Pierian-Data> Pierian Data Inc. </a> Bootcamp. 
+## Introduction
+- This is my trial at a project exercise during a [Pierian Data Inc.](https://github.com/Pierian-Data) 
 - The goal was to create a simple movie recommender system based on the item-item similarity collaborative filtering technique developed by [Amazon](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm). 
 - The dataset used is the famous [MovieLens](https://grouplens.org/datasets/movielens) dataset, commonly used when implementing and testing recommender engines. It contains 100k movie ratings from 943 users and a selection of 1682 movies.
 - The work is far from deployable, but the process sufficiently provided movie recommendations based on similarities in how users rate the movies.
