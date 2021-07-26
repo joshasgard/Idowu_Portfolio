@@ -5,9 +5,9 @@
 
 - 💞️ I’m looking to collaborate on any interesting project that'll use data - large or small - to do amazing things.  
 
-- 📫 You can reach out to me by <a href=idowuodesanmi@gmail.com>mail</a> or send a dm on <a href=https://twitter.com/id_joshua>twitter</a>. 
+- 📫 You can reach out to me by [mail](idowuodesanmi@gmail.com) or send a dm on [twitter](https://twitter.com/id_joshua). 
 
-- You can also find my blog posts on <a href=idowuodesanmi.medium.com> medium </a>
+- You can also find my blog posts on [medium](idowuodesanmi.medium.com)
 
 
 <!---
