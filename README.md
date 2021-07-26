@@ -16,7 +16,7 @@
 ![60df04928d2b6](https://user-images.githubusercontent.com/67300602/124380757-65805580-dcb6-11eb-8124-46fa5b523009.jpg)
 
 ## Introduction
-* The goal is to examine the relationship between family background, race and the current income of developers in the tech industry around the world. For that purpose, three (3) questions were posed and answered: </br>
+* The goal is to examine the relationship between family background, race and the current income of developers in the tech industry around the world. For that purpose, three (3) questions were posed and answered:
 
     1. How does the annual income of developers vary between ethnic groups?
     2. Do student developers of these backgrounds also have different salary expectations from their peers?
@@ -27,6 +27,26 @@
 ![1_aOZcQpE9cALSIEgm6OUeJg](https://user-images.githubusercontent.com/67300602/124049839-3e552a00-da11-11eb-930b-3fcbc31024c2.png)
 
 * Special attention was paid to Cross-Industry.....[more](https://github.com/joshasgard/Diversity_RepresentationInTech.git)
+
+
+# [Movie Recommender system](https://github.com/joshasgard/Movie_Recommender_system.git)
+![jeremy-yap-J39X2xX_8CQ-unsplash](https://user-images.githubusercontent.com/67300602/126975823-7ccd4bd9-9b24-411a-bd7d-4c527c0e1871.jpg)
+
+### Table of Contents
+
+1. [Introduction](#Introduction)
+2. [Installation](#Installation)
+3. [File Descriptions](#files)
+4. [How-to-](#how)
+5. [Authors, and Acknowledgements](#authors)
+
+
+## Introduction <a href = Introduction></a>
+- This is my trial at a project exercise during a <a href = https://github.com/Pierian-Data> Pierian Data Inc. </a> Bootcamp. 
+- The goal was to create a simple movie recommender system based on the item-item similarity collaborative filtering technique developed by [Amazon](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm). 
+- The dataset used is the famous [MovieLens](https://grouplens.org/datasets/movielens) dataset, commonly used when implementing and testing recommender engines. It contains 100k movie ratings from 943 users and a selection of 1682 movies.
+- The work is far from deployable, but the process sufficiently provided movie recommendations based on similarities in how users rate the movies.
+
 
 
 
