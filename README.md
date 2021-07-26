@@ -32,7 +32,6 @@
 # [Movie Recommender system](https://github.com/joshasgard/Movie_Recommender_system.git)
 ![jeremy-yap-J39X2xX_8CQ-unsplash](https://user-images.githubusercontent.com/67300602/126975823-7ccd4bd9-9b24-411a-bd7d-4c527c0e1871.jpg)
 
-
 ## Introduction
 - This is my trial at a project exercise during a [Pierian Data Inc.](https://github.com/Pierian-Data) 
 - The goal was to create a simple movie recommender system based on the item-item similarity collaborative filtering technique developed by [Amazon](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm). 
@@ -40,6 +39,11 @@
 - The work is far from deployable, but the process sufficiently provided movie recommendations based on similarities in how users rate the movies.
 
 
+
+
+
+@IdowuOdesanmi 
+Copyright (C) 2021
 
 
 
